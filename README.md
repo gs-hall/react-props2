@@ -1,2 +1,2 @@
-# netology-react-props2
+# react-props2
 Listing
